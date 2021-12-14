@@ -6,5 +6,6 @@ public class Main {
 		
 		System.out.println("Hello, GitHub!");
 		System.out.println("First commit test");
+		System.out.println("Second test");
 	}
 }
